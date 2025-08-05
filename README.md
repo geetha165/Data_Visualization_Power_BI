@@ -57,11 +57,8 @@ Create compelling data visualizations using Power BI to explore business perform
 
 ---
 
-## 📬 Contact
+## 📬 Connect with me on LinkedIn:
 
-For feedback or queries, feel free to reach out via 
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
 
-
-
-
-
+---
