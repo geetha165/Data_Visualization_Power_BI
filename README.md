@@ -31,11 +31,12 @@ Create compelling data visualizations using Power BI to explore business perform
 
 | View                           | Screenshot                                      |
 |--------------------------------|-------------------------------------------------|
-| Sales and Profit Analysis      |[ ![Sales](dashboard_screenshots/sales.png) ](https://github.com/geetha165/Data_Visualization_Power_BI/blob/main/dashboard_screenshots/Category_and_Product_Analysis_DM.png)|
-| Order and Shipping Performance | ![Shipping](dashboard_screenshots/shipping.png) |
-| Customer Insights              | ![Customer](dashboard_screenshots/customer.png) |
-| Geographic Performance         | ![Geo](dashboard_screenshots/geographic.png)    |
-| Category & Product Analysis    | ![Product](dashboard_screenshots/product.png)   |
+| Sales and Profit Analysis      |<img width="1184" height="666" alt="Sales_and_Profit_Aalysis_DM" src="https://github.com/user-attachments/assets/ad2f243b-0323-4240-92ae-c24cdb54be8b" />|
+| Order and Shipping Performance | <img width="1173" height="669" alt="Order_and_Shipping_Performance_DM" src="https://github.com/user-attachments/assets/22eac4fb-12c7-467d-88c4-f0ca026630b0" />|
+| Customer Insights              | <img width="1182" height="662" alt="Customer_Insights_DM" src="https://github.com/user-attachments/assets/f7f8b2de-a7e8-4a85-9641-ea1fbb603544" />|
+| Geographic Performance         | <img width="1188" height="687" alt="Geographic_Performance_DM" src="https://github.com/user-attachments/assets/cfee767b-c374-47f5-b647-95dd98198f90" />|
+| Category & Product Analysis    | <img width="1179" height="661" alt="Category_and_Product_Analysis_DM" src="https://github.com/user-attachments/assets/204e19c6-7f2a-44ba-b410-506eb410ef9e" />|
+| Dashboard for Retail Sales and Profit Analysis | <img width="1190" height="671" alt="DASHBOARD_Retail_Sales_and_Profit_Analysis_DM" src="https://github.com/user-attachments/assets/557142f0-dad9-4ae8-8fe3-1ab864e7fe6d" /> |
 
 
 ---
