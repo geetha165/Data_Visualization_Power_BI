@@ -7,7 +7,6 @@ This document summarizes key insights derived from the interactive dashboard in 
 ## 📊 Dashboard: Retail Sales & Profit Analysis
 
 <img width="1190" height="671" alt="DASHBOARD_Retail_Sales_and_Profit_Analysis_DM" src="https://github.com/user-attachments/assets/41341cf4-254c-4469-9339-639f283fb04b" />
-*Image above represents a high-level summary dashboard.*  
 
 ---
 
