@@ -31,7 +31,7 @@ Create compelling data visualizations using Power BI to explore business perform
 
 | View                           | Screenshot                                      |
 |--------------------------------|-------------------------------------------------|
-| Sales and Profit Analysis      | ![Sales](dashboard_screenshots/sales.png)       |
+| Sales and Profit Analysis      |[ ![Sales](dashboard_screenshots/sales.png) ](https://github.com/geetha165/Data_Visualization_Power_BI/blob/main/dashboard_screenshots/Category_and_Product_Analysis_DM.png)|
 | Order and Shipping Performance | ![Shipping](dashboard_screenshots/shipping.png) |
 | Customer Insights              | ![Customer](dashboard_screenshots/customer.png) |
 | Geographic Performance         | ![Geo](dashboard_screenshots/geographic.png)    |
